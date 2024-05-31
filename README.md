@@ -10,7 +10,9 @@ Este repositorio contém minhas soluções para as questões de entrevistas apre
 |10159|[Classificação dos Usuários Mais Ativos](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?code_type=1)|Airbnb|Intermediário|[Link](/sql/10159.sql)
 |9622|[Número de banheiros e quartos](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1)|Airbnb|Intermediário|[Link](/sql/9622.sql)
 |9782|[Receita dos clientes em Março](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Meta|Intermediário|[Link](/sql/9782.sql)
+|10351|[Ranking de Atividade](https://platform.stratascratch.com/coding/10351-activity-rank?code_type=1)|Google|Intermediário|[Link](/sql/10351.sql)
 
 ## Meta
-- Meta atual de resolver uma questão por dia durante um mês
+- Resolver uma questão por dia durante um mês.
+- 7 dias consecutivos ✅
 
