@@ -12,5 +12,5 @@ Este repositorio contém minhas soluções para as questões de entrevistas apre
 |9782|[Receita dos clientes em Março](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Meta|Intermediário|[Link](/sql/9782.sql)
 
 ## Meta
-- Meta atual de resolver uma questão por dia.
+- Meta atual de resolver uma questão por dia durante um mês
 
