@@ -12,8 +12,7 @@ Este repositorio contém minhas soluções para as questões de entrevistas apre
 |9782|[Receita dos clientes em Março](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Meta|Intermediário|[Link](/sql/9782.sql)
 |10351|[Ranking de Atividade](https://platform.stratascratch.com/coding/10351-activity-rank?code_type=1)|Google|Intermediário|[Link](/sql/10351.sql)
 |10046|[Top 5 Estados com Empresas 5 Estrelas](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1)|Yelp|Difícil|[Link](/sql/10046.sql)
-
+|10304|[Projetos Arriscados](https://platform.stratascratch.com/coding/10304-risky-projects?code_type=1)|LinkedIn|Intermediário|[Link](/sql/10304.sql)|
 ## Meta
 - Resolver uma questão por dia durante um mês.
-- 8 dias consecutivos ✅
 
