@@ -13,6 +13,7 @@ Este repositorio contém minhas soluções para as questões de entrevistas apre
 |7|10351|[Ranking de Atividade](https://platform.stratascratch.com/coding/10351-activity-rank?code_type=1)|Google|Intermediário|[Link](/sql/10351.sql)
 |8|10046|[Top 5 Estados com Empresas 5 Estrelas](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1)|Yelp|Difícil|[Link](/sql/10046.sql)
 |9|10304|[Projetos Arriscados](https://platform.stratascratch.com/coding/10304-risky-projects?code_type=1)|LinkedIn|Intermediário|[Link](/sql/10304.sql)|
+|10|10322|[Encontrando compras de usuários](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Amazon|Intermediário|[Link](/sql/10322.sql)
 ## Meta
 - Resolver uma questão por dia durante um mês.
 ## Evolução
