@@ -15,7 +15,6 @@ Este repositorio contém minhas soluções para as questões de entrevistas apre
 |9|10046|[Top 5 Estados com Empresas 5 Estrelas](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1)|Yelp|Difícil|[Link](/sql/10046.sql)
 |10|10304|[Projetos Arriscados](https://platform.stratascratch.com/coding/10304-risky-projects?code_type=1)|LinkedIn|Intermediário|[Link](/sql/10304.sql)|
 |11|10322|[Encontrando compras de usuários](https://platform.stratascratch.com/coding/10322-finding-user-purchases?code_type=1)|Amazon|Intermediário|[Link](/sql/10322.sql)
-## Meta
-- Resolver 30 desafios
+
 ## Evolução
 - Nos primeiros oito dias foquei em resolver questões mais simples para estabelecer uma base sólida. A partir do dia 9, passei a seleccionar desafios mais complexos, visando expandir ainda mais meu conhecimento
